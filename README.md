@@ -17,7 +17,7 @@ O projeto consiste em desafios de resolução de problemas utilizando JavaScript
 
 Para executar o projeto faça o clone deste repositório usando o comando abaixo.
 
-    git clone git@github.com:larissaperinoto/javascript-and-unit-tests.git
+    git clone git@github.com:cleciopinheiro/unit-tests.git
 
 Execute os testes com o comando abaixo.
 
@@ -25,4 +25,4 @@ Execute os testes com o comando abaixo.
 
 ---
  
-Desenvolvido por [Clécio Pinheiro](www.linkedin.com/in/cleciopinheirodev), © 2022.
+Desenvolvido por [Clécio Pinheiro](https://www.linkedin.com/in/cleciopinheirodev), © 2022.
